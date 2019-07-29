@@ -1,0 +1,25 @@
+{
+  "name": "newtry4",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuxingdang/newtry4.git"
+  },
+  "author": "Yuxing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuxingdang/newtry4/issues"
+  },
+  "homepage": "https://github.com/yuxingdang/newtry4#readme",
+  "dependencies": {
+    "lite-server": "^2.5.3",
+    "save-dev": "^2.0.0"
+  }
+}

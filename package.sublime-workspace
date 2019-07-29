@@ -1,0 +1,192 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build With: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yudi/Documents/Kaggle/titanic/work0.py",
+		"/Users/yudi/Downloads/01302018.NASDAQ_ITCH50.gz (1).md5sum",
+		"/Users/yudi/Documents/Python & Tabeau课程/实战项目：红酒品质影响因子分析及红酒品质预测/案例-红酒质量预测.py",
+		"/Users/yudi/Documents/Python & Tabeau课程/实战项目：库存预测/零售商销售和库存预测v2.py",
+		"/Users/yudi/Documents/python_new/rl/agent/agent.py",
+		"/usr/include/xlocale/_stdio.h",
+		"/usr/local/Cellar/gcc/8.2.0/lib/gcc/8/gcc/x86_64-apple-darwin17.7.0/8.2.0/include-fixed/stdio.h",
+		"/usr/include/secure/_stdio.h",
+		"/usr/local/Cellar/gcc/8.2.0/lib/gcc/8/gcc/x86_64-apple-darwin17.7.0/8.2.0/include-fixed/_stdio.h",
+		"/usr/local/Cellar/gcc@7/7.4.0/lib/gcc/7/gcc/x86_64-apple-darwin17.7.0/7.4.0/include-fixed/_stdio 3.h",
+		"/usr/local/Cellar/gcc@7/7.4.0/lib/gcc/7/gcc/x86_64-apple-darwin17.7.0/7.4.0/include-fixed/_stdio 2.h",
+		"/usr/local/Cellar/gcc@7/7.4.0/lib/gcc/7/gcc/x86_64-apple-darwin17.7.0/7.4.0/include-fixed/_stdio.h",
+		"/Users/yudi/Documents/python_new/time-series4/xitike 03.py",
+		"/Users/yudi/Documents/Python & Tabeau课程/实战项目：深度学习Tensorflow-产品算法/数据与脚本/tensorflow-电影推荐算法.py",
+		"/Users/yudi/Documents/python3/lightwave/calculation.py",
+		"/Users/yudi/Documents/python3/lightwave/final3_1530_met_ratio55.dat",
+		"/anaconda3/pkgs/odo-0.5.1-py36hc1af34a_0/lib/python3.6/site-packages/odo/temp.py",
+		"/Users/yudi/anaconda3/pkgs/odo-0.5.1-py37_0/lib/python3.7/site-packages/odo/temp.py",
+		"/Users/yudi/Documents/Data Scientist Role Play- Profiling and Analyzing the Yelp Dataset",
+		"/Users/yudi/Documents/first.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
